@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StatsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <intStatsData>
+    <string>highscore-419</string>
+    <string>tot_kills-515</string>
+    <string>tot_fuel_spent-2949</string>
+    <string>tot_boss_killed-2</string>
+    <string>tot_jackpot-0</string>
+    <string>tot_bolts_collected-12528</string>
+    <string>version_debug-0</string>
+    <string>games_played-6</string>
+    <string>deaths-0</string>
+    <string>units_lost-9</string>
+    <string>distance_travelled-17669</string>
+    <string>tot_scenarios_completed-363</string>
+    <string>cur_scenarios_completed-73</string>
+    <string>cur_kills-104</string>
+    <string>cur_bolts_collected-2625</string>
+  </intStatsData>
+  <floatStatsData />
+  <achievementsData>
+    <string>Made_It-True</string>
+    <string>Destruction-True</string>
+    <string>Termination-True</string>
+    <string>Annihilation-False</string>
+    <string>Lucky_Fether-False</string>
+    <string>Omek_Explorer-True</string>
+    <string>Techno_Troubles-False</string>
+    <string>Roughneck_Rampage-True</string>
+    <string>Plundering_Pirates-True</string>
+    <string>Finders_Keepers-True</string>
+    <string>Optimal_Strategy-True</string>
+    <string>Out_of_gas-False</string>
+    <string>Gas_Guzzler-False</string>
+    <string>Sole_Survivor-False</string>
+    <string>Prime_Customs-True</string>
+    <string>Speedrun-False</string>
+    <string>Bumper_Cars-False</string>
+    <string>Close_Combat-False</string>
+    <string>High_Tech-False</string>
+    <string>Low_Tech-False</string>
+    <string>Travelling_Light-False</string>
+    <string>Big_Haul-False</string>
+    <string>Repo_Man-False</string>
+    <string>Friendly_Fire-True</string>
+    <string>Scrooge-False</string>
+    <string>Made_It_Med-False</string>
+    <string>Made_It_Hard-False</string>
+    <string>DragonWarrior-True</string>
+    <string>Stay_A_While-True</string>
+  </achievementsData>
+</StatsData>
